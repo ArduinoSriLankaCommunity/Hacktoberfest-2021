@@ -49,4 +49,3 @@ Steps for adding your name below
     4. Make pull request
 
 
-Contributions of any kind welcome!
