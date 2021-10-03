@@ -47,5 +47,9 @@ Steps for adding your name below
     3. Add your Name also link your github profile
     4. Add arduino skecth that you made
     4. Make pull request
+## Contributors
 
+<a href="https://github.com/ArduinoSriLankaCommunity/Hacktoberfest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ArduinoSriLankaCommunity/Hacktoberfest-2021" />
+</a>
 
