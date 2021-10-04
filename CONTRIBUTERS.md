@@ -4,3 +4,4 @@
 | gr8rithic                    | [@arduinoSL](https://github.com/gr8rithic)                          |         1        |
 | Dilshan Ramesh               | [@dilshan97](https://github.com/Dilshan97)                          |         1        |
 | Malshi Perera                | [@malshii](https://github.com/malshi21)                             |         1        |
+| Vihanga nivarthana           | [@VihangaN](https://github.com/VihangaN)                            |         1        |
